@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-go-merch-store/static/css/main.afbf81f0.css",
-    "main.js": "/react-go-merch-store/static/js/main.a78acb43.js",
+    "main.js": "/react-go-merch-store/static/js/main.1b41db5b.js",
     "index.html": "/react-go-merch-store/index.html",
     "main.afbf81f0.css.map": "/react-go-merch-store/static/css/main.afbf81f0.css.map",
-    "main.a78acb43.js.map": "/react-go-merch-store/static/js/main.a78acb43.js.map"
+    "main.1b41db5b.js.map": "/react-go-merch-store/static/js/main.1b41db5b.js.map"
   },
   "entrypoints": [
     "static/css/main.afbf81f0.css",
-    "static/js/main.a78acb43.js"
+    "static/js/main.1b41db5b.js"
   ]
 }
